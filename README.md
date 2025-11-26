@@ -15,6 +15,10 @@ The mount is designed with rated load of 15kg without counterweight, and around 
 
 
 
+The firmware is based on open-source project OnstepX firmware, which is computerized telescope control system designed to give GoTo (computerized tracking) capabilities to a variety of telescope mounts.
+
+
+
 I have uploaded the designs which were done using Autodesk Inventor 2025 Pro to the folder Inventor.
 
 Parts list is also uploaded in the relevant folder.
@@ -22,6 +26,10 @@ Parts list is also uploaded in the relevant folder.
 
 
 I have upload a video to YouTube showing the full assembly process (link: https://youtu.be/akRYA4y\_P54?si=zxj99GgIfXwSHArk )
+
+
+
+Special thanks to Mountzilla, AlkaidMount, astrophile project owners and many others for inspiring me to do my own mount.
 
 
 
