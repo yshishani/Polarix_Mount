@@ -11,13 +11,17 @@ Total cost for me for the parts was around 375JOD, which is equivalent to around
 
 
 
-The mount is resigned with rated load of 15kg without counterweight, and around 20kg with counterweight.
+The mount is designed with rated load of 15kg without counterweight, and around 20kg with counterweight.
 
 
 
 I have uploaded the designs which were done using Autodesk Inventor 2025 Pro to the folder Inventor.
 
 Parts list is also uploaded in the relevant folder.
+
+
+
+I have upload a video to YouTube showing the full assembly process (link: https://youtu.be/akRYA4y\_P54?si=zxj99GgIfXwSHArk )
 
 
 
@@ -28,8 +32,4 @@ Yousef Shishani
 Amman - Jordan
 
 2025
-
-
-
-
 
