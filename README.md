@@ -25,11 +25,11 @@ Parts list is also uploaded in the relevant folder.
 
 
 
-I have upload a video to YouTube showing the full assembly process (link: https://youtu.be/akRYA4y\_P54?si=zxj99GgIfXwSHArk )
+I have upload a video to YouTube showing the full assembly process (link: https://www.youtube.com/watch?v=akRYA4y\_P54 )
 
 
 
-Special thanks to Mountzilla, AlkaidMount, astrophile project owners and many others for inspiring me to do my own mount.
+Special thanks to Mountzilla, AlkaidMount, Astrophilos projects owners and many others for inspiring me to do my own mount.
 
 
 
