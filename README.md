@@ -25,7 +25,11 @@ Parts list is also uploaded in the relevant folder.
 
 
 
-I have upload a video to YouTube showing the full assembly process (link: https://www.youtube.com/watch?v=akRYA4y\_P54 )
+I have upload a video to YouTube showing the full assembly process 
+
+link: https://youtu.be/akRYA4y\_P54?si=YTsm9m11TzZYfvIg
+
+
 
 
 
